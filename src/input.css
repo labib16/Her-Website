@@ -104,6 +104,9 @@
 .dot:hover {
     background-color: #52BBDC;
 }
+.slide-info-sh{
+    animation: fadeEffect 5s;
+}
 /* =====================================LookBook-12 End================================= */
 /* ====================================HOME-2-STYLE START================================ */
 
